@@ -12,4 +12,11 @@ public class Hello {
         System.out.println("Hello , Java !");
         System.out.println("Hello , Java !");
     }
+
+    /**
+     * 增加print方法
+     */
+    public static void print(String info) {
+        System.out.println("打印：" + info);
+    }
 }
