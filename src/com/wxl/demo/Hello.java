@@ -18,5 +18,7 @@ public class Hello {
      */
     public static void print(String info) {
         System.out.println("打印：" + info);
+        System.out.println("打印：" + info);
+
     }
 }
